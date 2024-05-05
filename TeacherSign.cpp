@@ -5,7 +5,7 @@
 
 int getstudent()
 {
-    return 51;
+    std::cout<<"测试人数为51人"<<std::endl;
 }
 int main()
 {
