@@ -5,7 +5,7 @@
 
 int getstudent()
 {
-    return 51;
+    return 10;
 }
 int main()
 {
