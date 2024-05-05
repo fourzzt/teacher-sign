@@ -3,6 +3,10 @@
 
 #include <iostream>
 
+int getstudent()
+{
+    return 51;
+}
 int main()
 {
     std::cout << "Hello World!\n";
